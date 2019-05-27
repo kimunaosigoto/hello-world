@@ -2,6 +2,12 @@
 
 
 # hello-world
+
+
+
+
+
+
 for practice
 
 これは練習です。
